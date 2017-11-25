@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+div {
+    height: 100%;
+    float: left;
+}
+#col1 {
+    width: 400px;
+    margin: 5px;
+}
+#col2 {
+    margin: 5px 0;
+    width: 400px
+}
+#col3 {
+    margin: 5px;
+    width: 400px;
+}
+#col4 {
+    margin: 5px;
+    width: 400px;
+}
